@@ -35,4 +35,9 @@ if( A > B ) {
    console.log("B este mai mare sau egal cu A");
  }
 
-          
+ var varsta = 20;
+ if ( varsta >= 18) {
+   console.log("Hi!");
+ } else {
+   console.log("Hello!");
+ }     
