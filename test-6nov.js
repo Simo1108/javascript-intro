@@ -11,10 +11,17 @@ var t= (x+y+z)/3;
 console.log(t);
 
 // Assignment Operators
-var x = 10;
-var  x = x + 5;
-console.log( x);
+var x=10;
+x += 5;
+console.log(+x);
 
 var y=10;
+y += 2;
+console.log(+y);
+
+var x=8;
+var z=2;
+var y=(x+z);
+console.log(y);
 y += 2;
 console.log(+y);
