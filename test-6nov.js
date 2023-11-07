@@ -14,3 +14,7 @@ console.log(t);
 var x = 10;
 var  x = x + 5;
 console.log( x);
+
+var y=10;
+y += 2;
+console.log(+y);
