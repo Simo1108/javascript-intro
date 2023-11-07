@@ -25,3 +25,14 @@ var y=(x+z);
 console.log(y);
 y += 2;
 console.log(+y);
+
+// Comparison Operators
+var A = 4;
+var B = 2;
+if( A > B ) {
+  console.log("A este mai mare decât B");
+}else{ 
+   console.log("B este mai mare sau egal cu A");
+ }
+
+          
