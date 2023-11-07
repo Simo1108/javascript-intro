@@ -51,4 +51,10 @@ if(a>5 && b<6) {
 }else{
   console.log("False");
 }
-  
+var x= 8 ;
+var y= 10 ;
+if (! x == y ) {
+  console.log("True");
+} else {
+  console.log("False");
+}
