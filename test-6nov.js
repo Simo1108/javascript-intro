@@ -41,3 +41,14 @@ if( A > B ) {
  } else {
    console.log("Hello!");
  }     
+
+
+// Logical Operators
+var a = 7;
+var b = 9;
+if(a>5 && b<6) {
+  console.log("True");
+}else{
+  console.log("False");
+}
+  
